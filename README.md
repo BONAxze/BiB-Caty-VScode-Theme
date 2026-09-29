@@ -2,7 +2,7 @@
   <img src="icon.png" alt="MD3: Content 0 Dark Icon" width="128" height="128" />
 </p>
 
-# MD3: Content 0 Dark (Bib Caty Dark)
+# MD3: Content 0 Dark (BiB Caty Dark)
 
 A sleek, modern dark theme for Visual Studio Code inspired by Material Design 3 (MD3) guidelines and vibrant expressive color palettes. Designed for high readability, soothing dark backgrounds, and distinct code syntax highlighting.
 
