@@ -1,2 +1,3 @@
-# BiB-Caty-VScode-Theme
-BiB-Caty Theme For VScode
+# README
+BiB Caty Theme VScode 
+By BONAxze

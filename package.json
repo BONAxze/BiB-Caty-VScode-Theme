@@ -1,0 +1,45 @@
+{
+	"name": "BiB Caty",
+	"displayName": "BiB Caty",
+	"description": "BiB Caty Theme For Visual Studio Code",
+	"publisher": "BONA",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.82.0"
+	},
+	"icon": "icon.png",
+	"repository": {
+		"url": ""
+	},
+	"keywords": [
+		"theme",
+		"minimalist"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+      {
+        "label": "BiB-Caty Monochrome Light",
+        "uiTheme": "vs",
+        "path": "./themes/bib-caty-light-color-theme.json"
+      },
+      {
+        "label": "BiB-Caty Monochrome Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bib-caty-dark-color-theme.json"
+      },
+      {
+        "label": "BiB-Caty Monochrome Dark OLED",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bib-caty-dark-oled-color-theme.json"
+      }
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1788608781060,
+		"targetPlatform": "undefined",
+		"size": 104429
+	}
+}
