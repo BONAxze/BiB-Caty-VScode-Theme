@@ -1,17 +1,19 @@
 <p align="center">
-  <img src="icon.png" alt="MD3: Content 0 Dark Theme Logo" width="128" height="128" />
+  <img src="icon.png" alt="MD3: Content 0 Dark Icon" width="128" height="128" />
+  <h1 align="center">MD3: Content 0 Dark (Bib Caty Dark)</h1>
 </p>
-
-# MD3: Content 0 Dark (Bib Caty Dark)
 
 A sleek, modern dark theme for Visual Studio Code inspired by Material Design 3 (MD3) guidelines and vibrant expressive color palettes. Designed for high readability, soothing dark backgrounds, and distinct code syntax highlighting.
 
 ---
 
-## Preview
+## Previews
+
+### Dark Preview
+![Dark Preview](dark.png)
 
 ### AMOLED Dark Preview
-![AMOLED Preview](amoled.png)
+![AMOLED Dark Preview](amoled.png)
 
 ### Lighting Preview
 ![Lighting Preview](lighting.png)
@@ -39,12 +41,12 @@ A sleek, modern dark theme for Visual Studio Code inspired by Material Design 3 
 | Element | Hex Color | Color Description |
 | :--- | :--- | :--- |
 | **Editor Background** | `#1c1014` | Dark Berry |
-| **Activity Bar Active** | `#ffb1c8` | Soft Pink |
-| **Active Tab Background** | `#d33b7b` | Deep Rose |
+| **Primary Accent / Cursor** | `#ffb1c8` | Soft Pink |
+| **Active Tab / Badge** | `#d33b7b` | Deep Rose |
 | **Foreground / Text** | `#f5dde2` | Rose Tint White |
 | **Strings** | `#40e26e` | Mint Green |
 | **Functions** | `#b7d300` | Lime Green |
-| **Types & Classes** | `#00dfc0` | Turquoise |
+| **Types** | `#00dfc0` | Turquoise |
 | **Variables** | `#00daf2` | Bright Cyan |
 
 ---
@@ -53,20 +55,12 @@ A sleek, modern dark theme for Visual Studio Code inspired by Material Design 3 
 
 ### Option 1: Via VS Code Extension Marketplace
 1. Open **Visual Studio Code**.
-2. Press `Ctrl+P` (or `Cmd+P` on macOS) and run:
-   ```text
-   ext install bib-caty-dark
+2. Press `Ctrl+P` (or `Cmd+P` on macOS) and paste:
+   ```bash
+   ext install your-publisher-name.bib-caty-dark
    ```
-3. Select **MD3:Content 0 Dark** as your color theme.
+3. Select **MD3:Content 0 Dark** as your active color theme.
 
-### Option 2: Manual Installation (Local Repository)
-1. Copy the `themes` folder and `bib-caty-dark-color-theme.json` file into your local VS Code extensions directory:
-   * **Windows:** `%USERPROFILE%\.vscode\extensions\`
-   * **macOS / Linux:** `~/.vscode/extensions/`
-2. Restart VS Code and activate the theme from `Preferences: Color Theme` (`Ctrl+K Ctrl+T`).
-
----
-
-## License
-
-This theme is available under the MIT License.
+### Option 2: Manual Installation (Local Directory)
+1. Copy your theme repository folder into your local VS Code extensions directory:
+   * **Windows:** `%USERPROFILE%\.vscode\extensions
