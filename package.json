@@ -9,7 +9,8 @@
 	},
 	"icon": "icon.png",
 	"repository": {
-		"url": ""
+		"type": "git",
+		"url": "https://github.com/BONAxze/BiB-Caty-VScode-Theme"
 	},
 	"keywords": [
 		"theme",
