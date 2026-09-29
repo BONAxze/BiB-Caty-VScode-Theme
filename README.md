@@ -10,7 +10,7 @@ A sleek, modern dark theme for Visual Studio Code inspired by Material Design 3 
 ## Previews
 
 ### Dark Preview
-![Dark Preview](dark.png)
+![Dark Preview](Dark.png)
 
 ### AMOLED Dark Preview
 ![AMOLED Dark Preview](amoled.png)
